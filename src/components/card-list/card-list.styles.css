@@ -1,0 +1,13 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 25px;
+}
+
+.card-list > * {
+  flex-basis: 25%;
+  max-width: 25%;
+}

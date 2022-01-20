@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-live-search/static/css/main.cacf804e.css",
+    "main.js": "/monsters-live-search/static/js/main.ed94764e.js",
+    "static/js/787.d301a0aa.chunk.js": "/monsters-live-search/static/js/787.d301a0aa.chunk.js",
+    "index.html": "/monsters-live-search/index.html",
+    "main.cacf804e.css.map": "/monsters-live-search/static/css/main.cacf804e.css.map",
+    "main.ed94764e.js.map": "/monsters-live-search/static/js/main.ed94764e.js.map",
+    "787.d301a0aa.chunk.js.map": "/monsters-live-search/static/js/787.d301a0aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cacf804e.css",
+    "static/js/main.ed94764e.js"
+  ]
+}
